@@ -22,7 +22,5 @@
 ### **Waveform 설명**
 
 
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODE0MDg1OCwxMDI2NTEyMDkxXX0=
--->
+>![](https://github.com/koo9ithub/practice09/blob/master/1.jpeg)
+>![](https://github.com/koo9ithub/practice09/blob/master/2.jpeg)
