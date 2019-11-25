@@ -16,7 +16,7 @@
 ## 결과
 
 ### **Waveform 검증**
->DUT/T
+>![](https://github.com/koo9ithub/practice09/blob/master/wave.PNG)
 
 
 ### **Waveform 설명**
