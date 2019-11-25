@@ -16,7 +16,7 @@
 ## 결과
 
 ### **Waveform 검증**
->DUT/T
+>![](https://github.com/koo9ithub/practice09/blob/master/wave.PNG)
 
 
 ### **Waveform 설명**
@@ -24,5 +24,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjUxMjA5MV19
+eyJoaXN0b3J5IjpbMTM0ODE0MDg1OCwxMDI2NTEyMDkxXX0=
 -->
